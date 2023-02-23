@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main - Entry point
- *
+ * positive_or_negative  - Entry point
+ * @i : integer
  * Return: Always 0 (Success)
  */
 
